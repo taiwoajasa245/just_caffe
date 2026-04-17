@@ -124,7 +124,7 @@ lib/
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/just_caffe.git
+git clone https://github.com/taiwoajasa245/just_caffe.git
 cd just_caffe
 
 # Install dependencies
